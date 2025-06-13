@@ -18,3 +18,28 @@ An AI-powered assistant for **Govardhan School of Yoga** using **RAG (Retrieval 
 - Launch web app using:
   ```bash
   streamlit run main.py
+
+
+
+- User asks a question via chat UI
+
+- Retrieves relevant document chunks from vector DB
+
+- LLM (LLaMA 3 70B) generates answer using retrieved chunks
+
+- Logs conversations in both text and JSON
+
+# 📦 Tech Stack
+
+Python
+
+Streamlit
+
+LangChain
+
+ChromaDB
+
+TogetherEmbeddings
+
+ChatGroq (LLaMA 3 70B)
+
