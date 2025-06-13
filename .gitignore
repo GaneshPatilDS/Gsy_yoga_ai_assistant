@@ -24,3 +24,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+vector_db_dir_2/
+
+
