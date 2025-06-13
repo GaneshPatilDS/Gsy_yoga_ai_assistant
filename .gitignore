@@ -1,0 +1,26 @@
+# Log and history files
+chat_log.json
+chat_log.txt
+vectorize_oe.log
+
+# Environment variables
+.env
+
+# Python cache and virtual environment folders
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Streamlit static cache
+.streamlit/
+
+# VSCode settings (if using VSCode)
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
